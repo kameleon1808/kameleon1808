@@ -53,8 +53,8 @@ Software engineer focused on web applications, backend development, and database
 
 ### Contact
 
-- 💼 LinkedIn: [_add your link_](https://www.linkedin.com/in/marko-djokic1808/)
+- 💼 LinkedIn: [Click here](https://www.linkedin.com/in/marko-djokic1808/)
 - 📧 Email: marko00djokic@gmail.com
-- 🐙 GitHub: [@kameleon1808](https://github.com/kameleon1808)
+- 🐙 GitHub: [Click here](https://github.com/kameleon1808)
 
 If you’d like to see parts of any private project (code, architecture, or database design), feel free to reach out – I’m open to collaboration, code review, ideas, and potential partnerships.
