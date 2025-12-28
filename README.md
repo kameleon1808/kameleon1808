@@ -12,7 +12,7 @@ Software engineer focused on web applications, backend development, and database
   - clear tracking of stock and consumption,
   - managing receipts per table and per shift,
   - a scalable database that can grow with the needs of the venue.  
-  _(Private repo, code available on request.)_
+
 
 - 🏘 **IzdajIznajmi**  
   A system for renting apartments and other properties – a platform that connects landlords and tenants with structured listings and simple communication.  
@@ -20,7 +20,6 @@ Software engineer focused on web applications, backend development, and database
   - Laravel-based backend API,
   - SPA frontend (modern JS framework – Vue),
   - architecture prepared for future extensions (mobile apps, integrations with external services).  
-  _(Private repo, in active development, intended for future business use.)_
 
 ---
 
